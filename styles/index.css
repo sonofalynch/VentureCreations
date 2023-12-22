@@ -135,6 +135,10 @@
 
 
 /* Store Page */
+#tshirts {
+    text-align: center;
+}
+
 #cards {
     display: flex;
     flex-wrap: wrap;
