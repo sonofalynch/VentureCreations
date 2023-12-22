@@ -4,50 +4,50 @@
           "image":"https://sonofalynch.github.io/venturecreations/images/productimages/product1.webp",
           "price":"$22.99",
           "description":"Temple T-Shirt",
-          "name":"Religous"
+          "type":"Religous"
        },
        "humor":{
           "image":"",
           "price":"",
           "description":"",
-          "name":""
+          "type":""
        },
        "family":{
           "image":"",
           "price":"",
           "description":"",
-          "name":""
+          "type":""
        },
        "mentalawareness":{
           "image":"",
           "price":"",
           "description":"",
-          "name":""
+          "type":""
        },
        "season":{
           "winter":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           },
           "spring":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           },
           "summer":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           },
           "fall":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           }
        },
        "holiday":{
@@ -55,43 +55,43 @@
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           },
           "christmas":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           },
           "valentines":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           },
           "mothersday":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           },
           "fathersday":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           },
           "fourthofjuly":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           },
           "thanksgiving":{
              "image":"",
              "price":"",
              "description":"",
-             "name":""
+             "type":""
           }
        }
     }
