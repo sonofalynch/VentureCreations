@@ -20,14 +20,14 @@ const displayPricing = (shirts) => {
         price.textContent = `Price: ${product.price}`;
 
         image.setAttribute('src', product.image);
-        image.setAttribute('alt', `Vehicle Type ${product.type}`);
+        image.setAttribute('alt', `Product Type ${product.type}`);
         image.setAttribute('loading', 'lazy');
         image.setAttribute('width', '100');
         image.setAttribute('height', '100');
-  
+ 
         card.appendChild(type);
-        card.appendChild(price);
         card.appendChild(image);
+        card.appendChild(price);
   
         cards.appendChild(card);
     });
