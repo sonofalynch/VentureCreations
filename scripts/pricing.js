@@ -12,20 +12,20 @@ getPricingData();
 const displayPricing = (shirts) => {
     shirts.forEach((product) => {
         let card = document.createElement('section');
-        let name = document.createElement('h3');
+        let type = document.createElement('h3');
         let price = document.createElement('h4');
         let image = document.createElement('img');
   
-        name.textContent = `${product.name}`;
-        price.textContent = `Price: ${product.price}`;
+        type.textContent = `${product.religous[0].type}`;
+        price.textContent = `Price: ${product.religous[0].price}`;
 
-        image.setAttribute('src', product.image);
-        image.setAttribute('alt', `Vehicle Type ${product.name}`);
+        image.setAttribute('src', product.religous[0].image);
+        image.setAttribute('alt', `Vehicle Type ${product.religous[0].name}`);
         image.setAttribute('loading', 'lazy');
         image.setAttribute('width', '100');
         image.setAttribute('height', '100');
   
-        card.appendChild(name);
+        card.appendChild(type);
         card.appendChild(price);
         card.appendChild(image);
   
