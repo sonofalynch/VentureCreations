@@ -18,12 +18,21 @@
              }
           }
        ],
-       "humor":{
+       "humor": [
+        {
           "image":"https://sonofalynch.github.io/venturecreations/images/productimages/dadjoke.webp",
           "price":"22.99",
           "description":"Dad Joke T-Shirt",
           "type":"Humor"
        },
+       {
+        "image":"https://sonofalynch.github.io/venturecreations/images/productimages/bruhvibes.webp",
+        "price":"22.99",
+        "description":"Bruh Vibes T-Shirt",
+        "type":"Humor"
+        }
+
+        ],
        "family":{
           "image":"",
           "price":"",
@@ -76,10 +85,10 @@
              "type":""
           },
           "christmas":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
+             "image":"https://sonofalynch.github.io/venturecreations/images/productimages/hohoho.webp",
+             "price":"22.99",
+             "description":"Ho Ho Ho",
+             "type":"Christmas"
           },
           "valentines":{
              "image":"",
