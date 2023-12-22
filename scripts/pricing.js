@@ -16,11 +16,11 @@ const displayPricing = (shirts) => {
         let price = document.createElement('h4');
         let image = document.createElement('img');
   
-        name.textContent = `${product.religous.name}`;
-        price.textContent = `Price: ${product.religous.price}`;
+        name.textContent = `${product.name}`;
+        price.textContent = `Price: ${product.price}`;
 
-        image.setAttribute('src', product.religous.image);
-        image.setAttribute('alt', `Vehicle Type ${product.religous.name}`);
+        image.setAttribute('src', product.image);
+        image.setAttribute('alt', `Vehicle Type ${product.name}`);
         image.setAttribute('loading', 'lazy');
         image.setAttribute('width', '100');
         image.setAttribute('height', '100');
