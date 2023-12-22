@@ -1,4 +1,4 @@
-const urlgit = 'https://sonofalynch.github.io/VentureCreations/data/products.json';
+const urlgit = 'https://sonofalynch.github.io/venturecreations/data/products.json';
 const cards = document.querySelector('#cards');
 
 async function getPricingData() {
