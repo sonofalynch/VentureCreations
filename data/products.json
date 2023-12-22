@@ -1,125 +1,29 @@
 {
-    "shirts":{
-       "religous":[
-          {
-             "religous1":{
-                "image":"https://sonofalynch.github.io/venturecreations/images/productimages/product1.webp",
-                "price":"$22.99",
-                "description":"Temple T-Shirt",
-                "type":"Religous"
-             }
-          },
-          {
-             "religous2":{
-                "image":"",
-                "price":"",
-                "description":"",
-                "type":"Religous"
-             }
-          }
-       ],
-       "humor": [
-        {
+    "shirts":[
+       {
+          "image":"https://sonofalynch.github.io/venturecreations/images/productimages/product1.webp",
+          "price":"$22.99",
+          "description":"Temple T-Shirt",
+          "type":"Religous"
+       },
+       {
           "image":"https://sonofalynch.github.io/venturecreations/images/productimages/dadjoke.webp",
           "price":"22.99",
           "description":"Dad Joke T-Shirt",
           "type":"Humor"
        },
        {
-        "image":"https://sonofalynch.github.io/venturecreations/images/productimages/bruhvibes.webp",
-        "price":"22.99",
-        "description":"Bruh Vibes T-Shirt",
-        "type":"Humor"
-        }
-
-        ],
-       "family":{
-          "image":"",
-          "price":"",
-          "description":"",
-          "type":""
+          "image":"https://sonofalynch.github.io/venturecreations/images/productimages/bruhvibes.webp",
+          "price":"22.99",
+          "description":"Bruh Vibes T-Shirt",
+          "type":"Humor"
        },
-       "fun":{
-          "image":"",
-          "price":"",
-          "description":"",
-          "type":""
-       },
-       "mentalawareness":{
-          "image":"",
-          "price":"",
-          "description":"",
-          "type":""
-       },
-       "season":{
-          "winter":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          },
-          "spring":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          },
-          "summer":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          },
-          "fall":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          }
-       },
-       "holiday":{
-          "halloween":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          },
-          "christmas":{
-             "image":"https://sonofalynch.github.io/venturecreations/images/productimages/hohoho.webp",
-             "price":"22.99",
-             "description":"Ho Ho Ho",
-             "type":"Christmas"
-          },
-          "valentines":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          },
-          "mothersday":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          },
-          "fathersday":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          },
-          "fourthofjuly":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          },
-          "thanksgiving":{
-             "image":"",
-             "price":"",
-             "description":"",
-             "type":""
-          }
+       {
+          "image":"https://sonofalynch.github.io/venturecreations/images/productimages/hohoho.webp",
+          "price":"22.99",
+          "description":"Ho Ho Ho",
+          "type":"Christmas"
        }
-    }
+    ]
  }
+    
