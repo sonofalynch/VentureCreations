@@ -7,10 +7,10 @@
           "type":"Religous"
        },
        "humor":{
-          "image":"",
-          "price":"",
-          "description":"",
-          "type":""
+          "image":"https://sonofalynch.github.io/venturecreations/images/productimages/dadjoke.webp",
+          "price":"22.99",
+          "description":"Dad Joke T-Shirt",
+          "type":"Humor"
        },
        "family":{
           "image":"",
