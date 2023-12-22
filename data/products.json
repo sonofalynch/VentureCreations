@@ -1,19 +1,23 @@
 {
     "shirts":{
-       "religous":{
-            "religous1" : {
-            "image":"https://sonofalynch.github.io/venturecreations/images/productimages/product1.webp",
-            "price":"$22.99",
-            "description":"Temple T-Shirt",
-            "type":"Religous"
-            },
-            "religous2" : {
+       "religous":[
+          {
+             "religous1":{
+                "image":"https://sonofalynch.github.io/venturecreations/images/productimages/product1.webp",
+                "price":"$22.99",
+                "description":"Temple T-Shirt",
+                "type":"Religous"
+             }
+          },
+          {
+             "religous2":{
                 "image":"",
                 "price":"",
                 "description":"",
                 "type":"Religous"
-                }
-       },
+             }
+          }
+       ],
        "humor":{
           "image":"https://sonofalynch.github.io/venturecreations/images/productimages/dadjoke.webp",
           "price":"22.99",
@@ -27,11 +31,11 @@
           "type":""
        },
        "fun":{
-        "image":"",
-        "price":"",
-        "description":"",
-        "type":""
-        },
+          "image":"",
+          "price":"",
+          "description":"",
+          "type":""
+       },
        "mentalawareness":{
           "image":"",
           "price":"",

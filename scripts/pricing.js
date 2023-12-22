@@ -20,7 +20,7 @@ const displayPricing = (shirts) => {
         price.textContent = `Price: ${product.religous[0].price}`;
 
         image.setAttribute('src', product.religous[0].image);
-        image.setAttribute('alt', `Vehicle Type ${product.religous[0].name}`);
+        image.setAttribute('alt', `Vehicle Type ${product.religous[0].type}`);
         image.setAttribute('loading', 'lazy');
         image.setAttribute('width', '100');
         image.setAttribute('height', '100');
