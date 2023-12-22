@@ -17,13 +17,13 @@ const displayPricing = (shirts) => {
         let image = document.createElement('img');
   
         name.textContent = `${product.name}`;
-        price.textContent = `Walk-In - Half Day: ${product.price}`;
+        price.textContent = `Price: ${product.price}`;
 
         image.setAttribute('src', product.image);
         image.setAttribute('alt', `Vehicle Type ${product.name}`);
         image.setAttribute('loading', 'lazy');
-        image.setAttribute('width', '340');
-        image.setAttribute('height', '440');
+        image.setAttribute('width', '100');
+        image.setAttribute('height', '100');
   
         card.appendChild(name);
         card.appendChild(price);

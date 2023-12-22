@@ -1,10 +1,13 @@
 {
-    "shirts" : [
+    "shirts" : {
+        
+        "religous" : [
         {
             "image" : "https://sonofalynch.github.io/venturecreations/images/productimages/product1.webp",
             "price" : "$22.99",
-            "name" : "Temple T-Shirt"
+            "description" : "Temple T-Shirt",
+            "name" : "Religous"
         }
-
-    ]
+        ]
+    }
 }
