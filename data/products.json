@@ -1,13 +1,98 @@
 {
-    "shirts" : {
-        
-        "religous" : [
-        {
-            "image" : "https://sonofalynch.github.io/venturecreations/images/productimages/product1.webp",
-            "price" : "$22.99",
-            "description" : "Temple T-Shirt",
-            "name" : "Religous"
-        }
-        ]
+    "shirts":{
+       "religous":{
+          "image":"https://sonofalynch.github.io/venturecreations/images/productimages/product1.webp",
+          "price":"$22.99",
+          "description":"Temple T-Shirt",
+          "name":"Religous"
+       },
+       "humor":{
+          "image":"",
+          "price":"",
+          "description":"",
+          "name":""
+       },
+       "family":{
+          "image":"",
+          "price":"",
+          "description":"",
+          "name":""
+       },
+       "mentalawareness":{
+          "image":"",
+          "price":"",
+          "description":"",
+          "name":""
+       },
+       "season":{
+          "winter":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          },
+          "spring":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          },
+          "summer":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          },
+          "fall":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          }
+       },
+       "holiday":{
+          "halloween":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          },
+          "christmas":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          },
+          "valentines":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          },
+          "mothersday":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          },
+          "fathersday":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          },
+          "fourthofjuly":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          },
+          "thanksgiving":{
+             "image":"",
+             "price":"",
+             "description":"",
+             "name":""
+          }
+       }
     }
-}
+ }
