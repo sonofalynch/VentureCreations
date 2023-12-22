@@ -35,7 +35,55 @@
             "price":"$22.99",
             "description":"Suicide Ribbon/Butterflies",
             "type":"Mental Health"
-            }
+        },
+        {
+            "image":"https://sonofalynch.github.io/venturecreations/images/productimages/bigfootpeace.webp",
+            "price":"$22.99",
+            "description":"Bigfoot Peace",
+            "type":"Humor"
+        },
+        {
+            "image":"https://sonofalynch.github.io/venturecreations/images/productimages/dadcula.webp",
+            "price":"$22.99",
+            "description":"Dadcula",
+            "type":"Halloween"
+        },
+        {
+            "image":"https://sonofalynch.github.io/venturecreations/images/productimages/calledinsick.webp",
+            "price":"$22.99",
+            "description":"Called In Sick",
+            "type":"Humor"
+        },
+        {
+            "image":"https://sonofalynch.github.io/venturecreations/images/productimages/mentalheart.webp",
+            "price":"$22.99",
+            "description":"Mental Health Heart",
+            "type":"Mental Health"
+        },
+        {
+            "image":"https://sonofalynch.github.io/venturecreations/images/productimages/momster.webp",
+            "price":"$22.99",
+            "description":"Momster",
+            "type":"Halloween"
+        },
+        {
+            "image":"https://sonofalynch.github.io/venturecreations/images/productimages/pumpkincats.webp",
+            "price":"$22.99",
+            "description":"Ghost Cats",
+            "type":"Halloween"
+        },
+        {
+            "image":"https://sonofalynch.github.io/venturecreations/images/productimages/suicidesemicolon.webp",
+            "price":"$22.99",
+            "description":"Suicide Semicolon/Butterflies",
+            "type":"Mental Health"
+        },
+        {
+            "image":"https://sonofalynch.github.io/venturecreations/images/productimages/witchsbrew.webp",
+            "price":"$22.99",
+            "description":"Witches Brew",
+            "type":"Halloween"
+        }
     ]
  }
     
