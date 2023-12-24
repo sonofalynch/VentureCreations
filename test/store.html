@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Venture Creations T-Shirt">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sonofalynch.github.io/venturecreations">
+    <meta name="author" content="Venture Creations LLC">
+    <meta name="description" content="This is Venture Creations LLC T-Shirt Website">
+    <link rel="stylesheet" href="styles/index.css">
+    <title>Venture Creations</title>
+</head>
+<body>
+    <header>
+        <div class="homepageheader">
+            <h1 class="homepagetitle">VENTURE CREATIONS</h1>
+            <h5 class="homepagesaying">Creating Custom Shirts to Support all of Life's Ventures</h5>
+        </div>
+    </header>
+    
+    <button id="menu"></button>
+    <nav class="navi">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#">Store</a></li>
+            <li><a href="#">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <div class="hero">
+            <picture>
+                <source srcset="images/hero-small.webp" media="(max-width: 600px)">
+                <source srcset="images/hero-medium.webp" media="(max-width: 900px)">
+                <img src="images/hero-large.webp" alt="hero image" width="1500" height="750">
+            </picture>
+        </div>
+        
+        <div id="tshirts"><h1>T-Shirts</h1></div>
+
+        <div id="cards"></div>
+
+        <div class="pagination" id="pagination"> 
+            <a href="#" id="prev">Previous</a> 
+            <a href="#" class="page-link" data-page="1">1</a> 
+            <a href="#" class="page-link" data-page="2">2</a> 
+            <a href="#" class="page-link" data-page="3">3</a> 
+            <a href="#" id="next">Next</a> 
+            <p id="page-numbers"> </p> 
+        </div> 
+
+    </main>
+
+    <footer>
+        <div class="homepagefooter">
+            <h5 class="homepagesaying">Venture Creations LLC</h5>
+            <h5 class="homepagesaying">Ogden, Utah</h5>
+        
+            <div class="footersocial">
+                <img id="facebookicon" src="images/facebookicon.webp">
+                <img id="instagramicon"src="images/instagramicon.webp">
+                <img id="pinteresticon" src="images/pinterest.webp">
+                <img id="twittericon" src="images/twittericon.webp">
+            </div>
+        
+        </div>
+    </footer>
+    <script src="scripts/pagination.js"></script>
+    <script src="scripts/pricing.js"></script>
+    <script src="scripts/hamburger.js"></script>
+</body>
+</html>
