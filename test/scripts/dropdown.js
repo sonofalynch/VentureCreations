@@ -20,6 +20,6 @@ function selectCategories()
     }
     else
     {
-       document.getElementById("newType").style.display = "none";
+       document.getElementById("").style.display = "none";
     }
 }
