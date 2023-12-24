@@ -39,7 +39,38 @@
         
         <div id="tshirts"><h1>T-Shirts</h1></div>
 
+        <select name="categories" id="categories" class="form-control">
+            <option value="back">Select Category</option>
+            <option value="family">Family</option>
+            <option value="holiday">Holiday</option>
+            <option value="humor">Humor</option>
+            <option value="mental">Mental Health</option>
+            <option value="religous">Religous</option>
+            <option value="season">Seasonal</option>
+        </select>
+        <br />
+        <select name="holiday" id="holiday" class="form-control" style="display:none">
+            <option value="">Select Holiday</option>
+            <option value="">4th of July</option>
+            <option value="">Christmas</option>
+            <option value="">Father's Day</option>
+            <option value="">Halloween</option>
+            <option value="">Mother's Day</option>
+            <option value="">Thanksgiving</option>
+            <option value="">Valentine's Day</option>
+        </select>
+        <br />
+        <select name="seasonal" id="seasonal" class="form-control" style="display:none">
+            <option value="">Select Season</option>
+            <option value="">Fall</option>
+            <option value="">Spring</option>
+            <option value="">Summer</option>
+            <option value="">Winter</option>
+        </select>
+        <br />
+
         <div id="cards"></div>
+
 
         <div class="pagination" id="pagination"> 
             <a href="#" id="prev">Previous</a> 
@@ -66,7 +97,7 @@
         
         </div>
     </footer>
-    <script src="scripts/pagination.js"></script>
+    <script src="scripts/dropdown.js"></script>
     <script src="scripts/pricing.js"></script>
     <script src="scripts/hamburger.js"></script>
 </body>
