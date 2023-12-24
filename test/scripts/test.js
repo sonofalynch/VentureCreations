@@ -33,6 +33,9 @@ const displayPricing = (shirts) => {
     });
 }
 
+
+//Dropdown Selections for Categories of Products
+
 var dropdown = document.getElementById("categories");
 dropdown.onchange=selectCategories;
 function selectCategories()
